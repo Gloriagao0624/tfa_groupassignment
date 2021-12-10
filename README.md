@@ -13,4 +13,4 @@ Group
 
 Group 34 section 002
 
-Uni: fl2595 gg2797ß
+Uni: fl2595 gg2797
